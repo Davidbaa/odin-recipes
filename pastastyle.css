@@ -1,0 +1,33 @@
+* {
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+body {
+    background-color: #5e405b;
+
+}
+
+div {
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    color: #ff7752;
+    text-align: center;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: #ffb752;
+}
+
+li {
+    font-size: 25px;
+    padding: 5x 0;
+    text-decoration: none;
+}
